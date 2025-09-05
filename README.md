@@ -29,7 +29,7 @@ pip install requests beautifulsoup4
 ## ▶️ Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/vuln-scanner.git
+   git clone https://github.com/itsdasharath/vuln-scanner.git
    cd vuln-scanner
    ```
 
